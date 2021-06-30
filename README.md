@@ -1,6 +1,8 @@
 ### Hi 👋, Im [Mauricio Vasco!](https://github.com/mvasco91/mvasco91/)
 
-<a href='https://www.linkedin.com/in/mauricio-vasco-velez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mvasco91/mvasco91/e6a73c790d721d6c5d25d1a1f6f955af5bb09d8f/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/mauricio-vasco-velez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mvasco91/mvasco91/e6a73c790d721d6c5d25d1a1f6f955af5bb09d8f/assets/linkedin.svg" height='20px'/></a>
+<a href='https://twitter.com/Mauro_vasco'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mvasco91/mvasco91/ae15f34e3799a34c9feb74465406df34b2d093ac/assets/twitter.svg" height='20px'/></a>
+
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mvasco91.mvasco91&style=flat-square&color=0088cc)
 
