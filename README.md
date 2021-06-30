@@ -7,7 +7,7 @@
 I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to exploring new tech stack 💻 and leveraging them to build cool stuffs. I'm currently into Web Development.
 <br/>
 <br/>
-<img align="right" alt="GIF" src="https://github.com/mvasco91/mvasco91/blob/main/assets/tenor.gif?raw=true" style="border-radius: 5px;" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/mvasco91/mvasco91/blob/main/assets/tenor.gif?raw=true" width="360px"/>
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **Making Sense LLC**
