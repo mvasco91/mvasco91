@@ -25,6 +25,14 @@ I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to exploring new
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
+<br/>
+
+### 🔨 GitHub Stats:
+<p><img src="https://github-readme-stats.vercel.app/api?username=mvasco91&amp;show_icons=true" alt="GitHub Stats"></p>
+
+
 
 
 
