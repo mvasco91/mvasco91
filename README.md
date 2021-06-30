@@ -30,7 +30,7 @@ I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to exploring new
 <br/>
 
 ### 🔨 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mvasco91&show_icons=true&theme=gotham" alt="github_stats" />
+<p <img src="https://github-readme-stats.vercel.app/api?username=mvasco91&show_icons=true&theme=gotham" alt="github_stats" />
 
 
 
