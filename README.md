@@ -1,6 +1,6 @@
 ### Hi 👋, Im [Mauricio Vasco!](https://github.com/mvasco91/mvasco91/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-vasco-velez/)
+<a href='https://www.linkedin.com/in/mauricio-vasco-velez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mvasco91/mvasco91/e6a73c790d721d6c5d25d1a1f6f955af5bb09d8f/assets/linkedin.svg" height='18px'/></a>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mvasco91.mvasco91&style=flat-square&color=0088cc)
 
