@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋, Im [Mauricio Vasco!](https://github.com/mvasco91/mvasco91/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-vasco-velez/)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mvasco91.mvasco91&style=flat-square&color=0088cc)
+
+I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to explore new technologies. I'm currently into Web Development and working as a Front End Developer.
 <!--
 **mvasco91/mvasco91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
