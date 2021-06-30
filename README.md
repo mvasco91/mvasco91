@@ -4,7 +4,6 @@
 <a href='https://twitter.com/Mauro_vasco'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mvasco91/mvasco91/ae15f34e3799a34c9feb74465406df34b2d093ac/assets/twitter.svg" height='20px'/></a>
 <br/>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mvasco91.mvasco91&style=flat-square&color=0088cc)
-<br/>
 I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to exploring new tech stack 💻 and leveraging them to build cool stuffs. I'm currently into Web Development and working as a Front End Developer.
 <!--
 **mvasco91/mvasco91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
