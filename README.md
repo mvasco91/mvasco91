@@ -2,11 +2,12 @@
 
 <a href='https://www.linkedin.com/in/mauricio-vasco-velez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mvasco91/mvasco91/e6a73c790d721d6c5d25d1a1f6f955af5bb09d8f/assets/linkedin.svg" height='20px'/></a>
 <a href='https://twitter.com/Mauro_vasco'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mvasco91/mvasco91/ae15f34e3799a34c9feb74465406df34b2d093ac/assets/twitter.svg" height='20px'/></a>
-
-
+<br/>
+<br/>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mvasco91.mvasco91&style=flat-square&color=0088cc)
-
-I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to explore new technologies. I'm currently into Web Development and working as a Front End Developer.
+<br/>
+<br/>
+I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to exploring new tech stack 💻 and leveraging them to build cool stuffs. I'm currently into Web Development and working as a Front End Developer.
 <!--
 **mvasco91/mvasco91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
