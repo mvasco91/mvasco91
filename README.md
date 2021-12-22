@@ -10,7 +10,7 @@ I'm a Systems Engenieer. I'm a passionate learner, 💡. I love to exploring new
 <img align="right" alt="GIF" src="https://github.com/mvasco91/mvasco91/blob/main/assets/tenor.gif?raw=true" width="360px"/>
 
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working on **Making Sense LLC**
+- 🔭 &nbsp; I’m currently working on **Gorilla Logic**
 - 🌱 &nbsp; I’m currently learning React JS; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mvasco91?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
